@@ -1,0 +1,5 @@
+INFO 2019-08-28 20:12:25,831 - Our first message
+INFO 2019-08-28 20:12:25,831 - quadratic_formula(1, 0, -4)
+DEBUG 2019-08-28 20:12:25,832 - # Compute the discriminant
+DEBUG 2019-08-28 20:12:25,832 - # Compute the two roots
+DEBUG 2019-08-28 20:12:25,832 - # Return the roots
